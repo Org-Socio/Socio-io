@@ -1,0 +1,24 @@
+2025-05-10 00:09:56,869 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:09:56,877 - INFO - Backend started successfully
+2025-05-10 00:16:21,515 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:16:21,522 - INFO - Backend started successfully
+2025-05-10 00:16:31,050 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:16:31,058 - INFO - Backend started successfully
+2025-05-10 00:16:46,175 - ERROR - Error in main loop: cannot read more than 33554432 bytes
+2025-05-10 00:16:46,217 - INFO - Backend stopped successfully
+2025-05-10 00:16:46,218 - INFO - Backend is not running
+2025-05-10 00:21:04,499 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:21:04,506 - INFO - Backend started successfully
+2025-05-10 00:21:15,069 - ERROR - Error in main loop: cannot read more than 33554432 bytes
+2025-05-10 00:21:15,099 - INFO - Backend stopped successfully
+2025-05-10 00:21:15,099 - INFO - Backend is not running
+2025-05-10 00:21:25,483 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:21:25,489 - INFO - Backend started successfully
+2025-05-10 00:37:12,268 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:37:12,275 - INFO - Backend started successfully
+2025-05-10 00:37:36,892 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:37:36,899 - INFO - Backend started successfully
+2025-05-10 00:46:02,027 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:46:02,038 - INFO - Backend started successfully
+2025-05-10 00:46:14,229 - INFO - Starting backend from C:\Users\HP\Videos\socio.io\app.py
+2025-05-10 00:46:14,238 - INFO - Backend started successfully

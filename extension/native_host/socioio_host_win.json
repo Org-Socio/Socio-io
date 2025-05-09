@@ -1,0 +1,12 @@
+{
+  "name": "com.socioio.contentfilter",
+  "description": "Socio.io Content Filter Native Host",
+  "path": "C:\\Users\\HP\\Videos\\socio.io\\extension\\native_host\\socioio_host_win.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://<extension-id>/",
+    "chrome-extension://*/",
+    "edge-extension://<extension-id>/",
+    "edge-extension://*/"
+  ]
+}

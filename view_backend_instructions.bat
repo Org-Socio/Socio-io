@@ -1,0 +1,3 @@
+@echo off
+echo Opening backend instructions...
+start "" "extension\backend_instructions.html"

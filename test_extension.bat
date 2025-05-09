@@ -1,0 +1,3 @@
+@echo off
+echo Opening test page...
+start "" "extension\test_page.html"

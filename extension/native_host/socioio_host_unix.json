@@ -1,0 +1,12 @@
+{
+  "name": "com.socioio.contentfilter",
+  "description": "Socio.io Content Filter Native Host",
+  "path": "socioio_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://<extension-id>/",
+    "chrome-extension://*/",
+    "edge-extension://<extension-id>/",
+    "edge-extension://*/"
+  ]
+}
