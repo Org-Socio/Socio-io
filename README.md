@@ -1,16 +1,15 @@
 ---
-
 ## 🚀 Socio.io Content Moderation Extension
 
 A Chrome extension that filters and moderates inappropriate content on the web.
 
 ## ✨ Features
 
-* 🧹 Text Moderation: Detects and filters explicit or inappropriate text
-* 🖼️ Image Moderation: Blurs explicit images with click-to-view
-* ♻️ Content Recovery: Restore filtered content anytime
-* 🕒 History Tracking: Logs filtered content for review
-* 🧭 Simple UI: Easy toggle and intuitive interface
+- 🧹 Text Moderation: Detects and filters explicit or inappropriate text  
+- 🖼️ Image Moderation: Blurs explicit images with click-to-view  
+- ♻️ Content Recovery: Restore filtered content anytime  
+- 🕒 History Tracking: Logs filtered content for review  
+- 🧭 Simple UI: Easy toggle and intuitive interface  
 
 ---
 **Manual Installation (Developer Mode):**
