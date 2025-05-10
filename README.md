@@ -1,8 +1,10 @@
+---
+
 ## 🚀 Socio.io Content Moderation Extension
 
 A Chrome extension that filters and moderates inappropriate content on the web.
 
-### ✨ Features
+## ✨ Features
 
 * 🧹 **Text Moderation**: Detects and filters explicit or inappropriate text
 * 🖼️ **Image Moderation**: Blurs explicit images with click-to-view
@@ -43,4 +45,5 @@ A Chrome extension that filters and moderates inappropriate content on the web.
 * Contributions welcome via pull requests!
 * Licensed under the MIT License
   
+
 ---
